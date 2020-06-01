@@ -1,0 +1,27 @@
+/*!
+ * Start Bootstrap - Resume v5.0.8 (https://startbootstrap.com/template-overviews/resume)
+ * Copyright 2013-2019 Start Bootstrap
+ * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-resume/blob/master/LICENSE)
+ */body{font-family: Consolas, Muli,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';padding-top:54px;color:#0c090A}@media (min-width:992px){body{padding-top:0;padding-left:17rem}}h1,h2,h3,h4,h5,h6{font-family: Consolas,
+    -apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+    font-weight:700;text-transform:uppercase;color:#10A2F5}h1{font-size:8rem;line-height:5.5rem}h2{font-size:5rem}h3{font-size:2rem;color:#24D085}p.lead{font-size:1.8rem;font-weight:400}
+   
+    .subheading{text-transform:uppercase;font-weight:500;font-family: Consolas,-apple-system,BlinkMacSystemFont,'Segoe UI',Roboto,'Helvetica Neue',Arial,sans-serif,'Apple Color Emoji','Segoe UI Emoji','Segoe UI Symbol','Noto Color Emoji';
+        font-size:2rem}.social-icons a{display:inline-block;height:5rem;width:5rem;background-color:#fdfd96;color:#191970!important;border-radius:100%;text-align:center;font-size:1.5rem;line-height:5rem;margin-right:1.5rem}
+        .social-icons a:last-child{margin-right:0}.social-icons a:hover{background-color:#191970;color:#fdfd96!important}
+        .dev-icons{font-size:3rem}.dev-icons .list-inline-item i:hover{color:#191970}#sideNav 
+        .navbar-nav .nav-item .nav-link{font-weight:800;letter-spacing:.05rem;text-transform:uppercase;font-size:1.5rem}#sideNav 
+        .navbar-toggler:focus{outline-color:#000080}@media (min-width:992px){#sideNav{text-align:center;position:fixed;top:0;left:0;display:flex;flex-direction:column;width:17rem;height:100vh}#sideNav 
+        .navbar-brand{display:flex;margin:auto auto 0;padding:.5rem}#sideNav 
+        .navbar-brand .img-profile{max-width:10rem--;max-height:10rem;border:.2rem solid #191970 }#sideNav
+         .navbar-collapse{display:flex;align-items:flex-start;flex-grow:0;width:100%;margin-bottom:auto}#sideNav 
+         .navbar-collapse .navbar-nav{flex-direction:column;width:100%}#sideNav 
+         .navbar-collapse .navbar-nav .nav-item{display:block}#sideNav 
+         .navbar-collapse .navbar-nav .nav-item .nav-link{display:block}}section
+         .resume-section{padding-top:5rem!important;padding-bottom:5rem!important;max-width:75rem; color: #0c090A}section
+         .resume-section .resume-item .resume-date{min-width:none; color: #0c090A}@media (min-width:768px){section.resume-section{min-height:100vh}section
+         .resume-section .resume-item .resume-date{min-width:18rem; color:#0c090A}}@media (min-width:992px){section.resume-section{padding-top:3rem!important;padding-bottom:3rem!important}}
+         .borderexample{border-style:solid; border-color: #10A2F5; text-align:center;border-radius:25px; display:inline-block;width:145px;padding:1.5px;background-color:#fdfd96;color:#000000 ; font-weight:bold;}
+         .skill-tabs{vertical-align:top;display:inline-block;background-color: #fff ;color:#000000}.skills-tabs p:hover{background-color:#E9BC3F}
+         .bg-primary{background-color:#EB4888!important}
+         .text-primary{color:#EB4888!important}a{color:#24D085}a:active,a:focus,a:hover{color:#191970}
